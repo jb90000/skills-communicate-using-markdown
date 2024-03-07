@@ -14,6 +14,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ### Here's H3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
 #### ... and H4
 ##### H5 getting smaller
 ###### The teensiest header (H6)
